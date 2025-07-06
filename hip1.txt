@@ -4,3 +4,7 @@ adding lines by remote dev sagar to generate conflict.
 
 line added by sagar in local machine.
 dev tushar added line 5 on remote
+
+
+
+line by local dev added
